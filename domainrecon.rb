@@ -3,8 +3,8 @@ class Domainrecon < Formula
   
     desc "domainrecon is a CLI tool for mapping the technology stack of a domain using WHOIS, DNS, certificate transparency logs, and HTTPS analysis."
     homepage "https://github.com/gustavfroding/domainrecon"
-    url "https://github.com/gustavfroding/domainrecon/archive/refs/tags/v0.1.0.tar.gz"
-    sha256 "7a0433d63597a60de1ead234580efb70614184c6b168491342470111a66d579e"
+    url "https://github.com/gustavfroding/domainrecon/archive/refs/tags/v0.2.1.tar.gz"
+    sha256 "88d5fa2bdf832fff45785e1e67403b42c7878b3de166553bfde13f1f94b3ab50"
     license "MIT"
   
     depends_on "python@3.11"
