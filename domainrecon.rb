@@ -3,8 +3,8 @@ class Domainrecon < Formula
 
   desc "CLI tool for mapping technology stack of a domain"
   homepage "https://github.com/gustavfroding/domainrecon"
-  url "https://github.com/gustavfroding/domainrecon/archive/refs/tags/v0.2.3.tar.gz"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  url "https://github.com/gustavfroding/domainrecon/archive/refs/tags/v0.2.4.tar.gz"
+  sha256 "cb869ec260db9d31392c340ce38abf962bada8389f4ff90c160924a92c27cea3"
   license "MIT"
 
   depends_on "python@3.11"
