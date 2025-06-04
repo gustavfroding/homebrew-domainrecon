@@ -11,32 +11,32 @@ class Domainrecon < Formula
 
   resource "rich" do
     url "https://files.pythonhosted.org/packages/a1/53/830aa4c3066a8ab0ae9a9955976fb770fe9c6102117c8ec4ab3ea62d89e8/rich-14.0.0.tar.gz"
-    sha256 "1c9491e1951aac09caffd42f448ee3d04e58923ffe14993f6e83068dc395d7e0"
+    sha256 "82f1bc23a6a21ebca4ae0c45af9bdbc492ed20231dcb63f297d6d1021a9d5725"
   end
 
   resource "python-whois" do
     url "https://files.pythonhosted.org/packages/f5/5b/5c0c705d14945954b23b69042c1597971da3cd6dc3ed23b96449be91d665/python_whois-0.9.5.tar.gz"
-    sha256 "d435cf8012659745ce3b4e7c15428df9405648696727812d9eaacc36782d14e3"
+    sha256 "18968c21484752fcc4b9a5f0af477ef6b8dc2e8bb7f1bd5c33831499c0dd41ca"
   end
 
   resource "dnspython" do
     url "https://files.pythonhosted.org/packages/b5/4a/263763cb2ba3816dd94b08ad3a33d5fdae34ecb856678773cc40a3605829/dnspython-2.7.0.tar.gz"
-    sha256 "b4c34b7d10b51bcc3a5071e7b8dee77939f1e878477eeecc965e9835f63c6c86"
+    sha256 "ce9c432eda0dc91cf618a5cedf1a4e142651196bbcd2c80e89ed5a907e5cfaf1"
   end
 
   resource "ipwhois" do
     url "https://files.pythonhosted.org/packages/ed/e9/f1dd533366b5809494d0ee0d39db2e0806388c52c25b1dcff2e0794a51d8/ipwhois-1.3.0.tar.gz"
-    sha256 "ad2cd7e7b8c81044fc8829bb4357bce6088c654a20f51f5d234fe6a99e0fbf90"
+    sha256 "11d59784b6350210c33e12301cc50cd1ebfbb0b12a7b0f97916e11d6661c4d5d"
   end
 
   resource "aiohttp" do
     url "https://files.pythonhosted.org/packages/eb/62/95588e933dfea06a3af0332990bd19f6768f8f37fa4c0fe33fe4c55cf9d0/aiohttp-3.12.7.tar.gz"
-    sha256 "6f04af3bf040dc8fd9b2bc0e465f5aca6fc5349fa08bd7f08142974a2ded21bf"
+    sha256 "08bf55b216c779eddb6e41c1841c17d7ddd12776c7d7b36051c0a292a9ca828e"
   end
 
   resource "bs4" do
     url "https://files.pythonhosted.org/packages/c9/aa/4acaf814ff901145da37332e05bb510452ebed97bc9602695059dd46ef39/bs4-0.0.2.tar.gz"
-    sha256 "abf8742c0805ef7f662dce4b51cca104cffe52b835238afc169142ab9b3fbccc"
+    sha256 "a48685c58f50fe127722417bae83fe6badf500d54b55f7e39ffe43b798653925"
   end
 
   def install
